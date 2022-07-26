@@ -12,7 +12,7 @@ const defaultMenu = {
   header: '*❏═┅═━–〈 %category*',
   body: '┊⌬ › %cmd %islimit %isPremium',
   footer: '┗━═┅═━––––––๑\n',
-  after: '\n⌕ ❙❘❙❙❘❙❚❙❘❙❙❚❙❘❙❘❙❚❙❘❙❙❚❙❘❙❙❘❙❚❙❘ ⌕\n©KinanBOT-MD@^1.0.5',
+  after: '\n⌕ ❙❘❙❙❘❙❚❙❘❙❙❚❙❘❙❘❙❚❙❘❙❙❚❙❘❙❙❘❙❚❙❘ ⌕\n©BOTSatZzz@^1.0.5',
 }
 
 let handler = async (m, { conn, usedPrefix: _p }) => {
@@ -111,13 +111,13 @@ let handler = async (m, { conn, usedPrefix: _p }) => {
     body: `${pickRandom(['udah makan belum kak?', 'udh mandi belum kak?', 'Semangat ya kak!', 'Jangan begadang mulu ya!', 'jangan spam ya kak!', 'Jangan lupa donasi yak kak! >.<', 'Jaga kesehatan yaw kak!', 'Jangan lupa makan!', 'Jangan lupa istirahat yak! >.<', 'I Love you kak >.< 💗✨', 'Pr nya udh belum kak?', 'Jangan kebanyakan main hp yk! nanti sakit :‹'])}`,
     description: '', 
     mediaType: 2, 
-    thumbnail: await (await fetch('https://telegra.ph/file/84e3a088695da949fab36.jpg')).buffer(), 
+    thumbnail: await (await fetch('https://telegra.ph/file/aced9f1a320ca44e73b12.jpg')).buffer(), 
     mediaUrl: `${pickRandom([`https://www.facebook.com/Inunime-107082474576049/`,`https://youtu.be/JWHV8lPTzPs`,`https://instagram.com/nuru`])}`,  
 }
 } })
 conn.sendFile(m.chat, './media/tante-tante.mp3', 'tante-tante.mp3', null, fkontak, true, {
 type: 'audioMessage', 
-ptt: true, contextInfo:{ externalAdReply: {title: 'Stay Grateful With Your Life', body: `${pickRandom(['Never give up', 'Create By fityakece'])}`, sourceUrl: 'https://instagram.com/nan_sakrn', thumbnail: await (await fetch('https://telegra.ph/file/84e3a088695da949fab36.jpg')).buffer(),}} 
+ptt: true, contextInfo:{ externalAdReply: {title: 'Stay Grateful With Your Life', body: `${pickRandom(['Never give up', 'Create By Satriyo'])}`, sourceUrl: 'https://instagram.com/nan_sakrn', thumbnail: await (await fetch('https://telegra.ph/file/aced9f1a320ca44e73b12.jpg')).buffer(),}} 
 })
     // conn.sendButton(m.chat, 
     //`*Hi, ${name} 👋*\n\n`, 
