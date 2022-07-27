@@ -13,7 +13,7 @@ Kalian bisa mendukung saya agar bot ini tetap up to date dengan:
 Berapapun donasi kalian akan sangat berarti 👍
 *Contact person Owner:*
 wa.me/0895622816517 (Satriyo)`
-conn.sendHydrated(m.chat, str, wm, './media/IMG-20220706-WA0063.jpg', 'https://github.com/Ipulpachri', '𝙶𝙸𝚃𝙷𝚄𝙱', null, null, [
+conn.sendHydrated(m.chat, str, wm, './media/IMG-20220706-WA0063.jpg', 'https://github.com/JakaV1', '𝙶𝙸𝚃𝙷𝚄𝙱', null, null, [
 ['𝙼𝙴𝙽𝚄', '/menu']
 ], m)
 
