@@ -6,7 +6,7 @@ import moment from 'moment-timezone'
 global.owner = [
   ['+62 857-8569-4474'],
   ['+62 857-8569-4474'],
-  ['+62 857-8569-4474'],
+  ['19793006026'],
   ['+62 857-8569-4474'],
   ['+62 857-8569-4474'],
   ['+62 895-6228-16517', 'Satriyo', true],
@@ -122,8 +122,8 @@ global.hsquere = '⛶', '❏', '⫹⫺'
 global.l = '「'
 global.r = '」'
 // Sticker WM
-global.packname = ''
-global.author = ''
+global.packname = 'Stiker By'
+global.author = 'BOTSattZzz'
 
 global.multiplier = 69 // The higher, The harder levelup
 
